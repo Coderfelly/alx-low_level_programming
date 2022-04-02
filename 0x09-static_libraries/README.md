@@ -1,1 +1,1 @@
-Lets learn about sttic libraries
+Here we learn about static libraries, how to create and use them
